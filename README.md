@@ -33,12 +33,12 @@ I sincerely thank **Codtech IT Solutions Pvt. Ltd.** for giving me the opportuni
 
 ## 🔍 OUTPUT: Collaborative Document Editor Interface
 
-The screenshot below showcases the real-time collaborative editing interface. It demonstrates multiple users working simultaneously on a shared document with rich text formatting, live updates, and a clean layout.
+1. The screenshot below showcases the real-time collaborative editing interface. It demonstrates multiple users working simultaneously on a shared document with rich text formatting, live updates, and a clean layout.
 
 ![Collaborative Editor Output](https://github.com/user-attachments/assets/f77a15d9-1798-4f1b-a550-b65a1ee0766a)
 
 
-In-App Notification System for Real-Time Communication
+2. In-App Notification System for Real-Time Communication
 
 This screenshot illustrates the built-in notification feature that enables users to communicate with each other while editing collaboratively. It supports real-time alerts, status updates, and interaction prompts to enhance teamwork and coordination.
 
