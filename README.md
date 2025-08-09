@@ -31,4 +31,10 @@ Through this internship, I gained hands-on experience in building real-time appl
 
 I sincerely thank **Codtech IT Solutions Pvt. Ltd.** for giving me the opportunity to work on this project. The mentorship and guidance provided by **Neela Santosh Kumar** helped me understand the practical aspects of web development and real-time systems. This experience has significantly boosted my confidence and technical skills, preparing me for future collaborative and professional development.
 
-## OUTPUT SCREENSHOTS:
+## 🔍 OUTPUT: Collaborative Document Editor Interface
+
+The screenshot below showcases the real-time collaborative editing interface. It demonstrates multiple users working simultaneously on a shared document with rich text formatting, live updates, and a clean layout.
+
+![Collaborative Editor Output](https://github.com/user-attachments/assets/f77a15d9-1798-4f1b-a550-b65a1ee0766a)
+
+
