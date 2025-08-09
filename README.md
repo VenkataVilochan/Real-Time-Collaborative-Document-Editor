@@ -63,13 +63,7 @@ A real-time collaborative document editor that lets multiple users edit the same
 
 ---
 
-## 📦 RESOURCES & METRICS
-
-- **Stars**: ⭐ 1  
-- **Watchers**: 👁️ 0  
-- **Forks**: 🍴 0  
-- **Releases**: None published  
-- **Packages**: None published  
+ 
 
 ### 🔤 Languages Used
 | Language   | Percentage |
@@ -89,6 +83,3 @@ Based on your tech stack:
 
 ---
 
-## 🏁 FOOTER
-
-✅ *Finally completed one README file!*
