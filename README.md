@@ -83,3 +83,8 @@ Based on your tech stack:
 
 ---
 
+## 🎓 INTERNSHIP EXPERIENCE
+
+This project gave me hands-on experience with building a Real-Time Document Editor using web sockets and collaborative editing techniques. I learned how to implement live synchronization, conflict resolution, and efficient data handling to support multiple users editing simultaneously.
+
+I sincerely thank **Codtech IT Solutions Pvt. Ltd.** for this opportunity. The mentorship from **Neela Santosh Kumar** and the structured internship helped me grow both technically and professionally. This project has strengthened my understanding of real-time web applications, scalable architecture, and teamwork-driven development.
