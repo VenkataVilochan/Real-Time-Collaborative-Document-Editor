@@ -38,3 +38,10 @@ The screenshot below showcases the real-time collaborative editing interface. It
 ![Collaborative Editor Output](https://github.com/user-attachments/assets/f77a15d9-1798-4f1b-a550-b65a1ee0766a)
 
 
+In-App Notification System for Real-Time Communication
+
+This screenshot illustrates the built-in notification feature that enables users to communicate with each other while editing collaboratively. It supports real-time alerts, status updates, and interaction prompts to enhance teamwork and coordination.
+
+![Notification System Output](https://github.com/user-attachments/assets/9840a4e5-32a5-431e-9ba2-b32c18736d6a)
+
+
